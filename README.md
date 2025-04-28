@@ -10,14 +10,13 @@
 | ------------ | --- | ---- |
 | 그리디 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Greedy/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Greedy) |
 | 구현 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Implementation/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Implementation) |
-| DFS/BFS | X | X |
+| DFS/BFS | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/DFS%2CBFS/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/DFS%2CBFS) |
 | 정렬 | X | X |
 | 이진 탐색 | X | X |
 | 다이나믹 프로그래밍 | X | X |
 | 최단 경로 | X | X |
 | 그래프 이론 | X | X |
 
-</br>
 </br>
 
 ### PART 03. 알고리즘 유형별 기출문제

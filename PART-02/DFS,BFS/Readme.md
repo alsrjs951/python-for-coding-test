@@ -13,6 +13,7 @@ DFS는 Depth-First Search, 깊이 우선 탐색이라고도 부르며, 그래프
 3. 2번의 과정을 더 이상 수행할 수 없을 때까지 반복한다.
 
 </br>
+</br>
 
 ![BFS](https://github.com/user-attachments/assets/9d77b0db-2576-4761-8a79-f5bbfc488f6f)
 
