@@ -9,7 +9,7 @@
 | 주요 알고리즘 | 이론 | 코드 |
 | ------------ | --- | ---- |
 | 그리디 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Greedy/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Greedy) |
-| 구현 | X | X |
+| 구현 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Implementation/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Implementation) |
 | DFS/BFS | X | X |
 | 정렬 | X | X |
 | 이진 탐색 | X | X |
