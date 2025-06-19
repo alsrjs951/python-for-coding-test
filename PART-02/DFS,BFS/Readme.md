@@ -2,7 +2,8 @@
 
 ![DFS](https://github.com/user-attachments/assets/e14c74bf-2dd5-4d4f-8620-dbedc927bca2)
 </br>
-<small>출처: velog (김민석)</small>
+
+<small>(출처: velog (김민석))</small>
 
 
 ### DFS 란?
@@ -20,7 +21,8 @@ DFS는 Depth-First Search, 깊이 우선 탐색이라고도 부르며, 그래프
 
 ![BFS](https://github.com/user-attachments/assets/21cb345a-e698-4490-a2d3-35c3572c9818)
 </br>
-<small>출처: velog (김민석)</small>
+
+<small>(출처: velog (김민석))</small>
 
 ### BFS 란?
 
