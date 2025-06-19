@@ -1,3 +1,4 @@
+# 상하좌우
 import sys
 input = sys.stdin.readline
 
