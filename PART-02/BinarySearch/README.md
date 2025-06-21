@@ -42,5 +42,6 @@ def binary_seach(array, target, start, end):
         else:
             start = mid + 1
     return None
+```
 
 (이진 탐색은 코딩 테스트에서 단골로 나오는 문제이니 가급적 외우길 권한다고 한다.)

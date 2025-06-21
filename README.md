@@ -12,7 +12,7 @@
 | 구현 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Implementation/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Implementation) |
 | DFS/BFS | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/DFS%2CBFS/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/DFS%2CBFS) |
 | 정렬 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Sorting/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Sorting) |
-| 이진 탐색 | X | X |
+| 이진 탐색 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/BinarySearch/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/BinarySearch) |
 | 다이나믹 프로그래밍 | X | X |
 | 최단 경로 | X | X |
 | 그래프 이론 | X | X |
