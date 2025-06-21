@@ -8,10 +8,10 @@
 
 | 주요 알고리즘 | 이론 | 코드 |
 | ------------ | --- | ---- |
-| 그리디 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Greedy/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Greedy) |
-| 구현 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Implementation/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Implementation) |
-| DFS/BFS | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/DFS%2CBFS/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/DFS%2CBFS) |
-| 정렬 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Sorting/Readme.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Sorting) |
+| 그리디 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Greedy/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Greedy) |
+| 구현 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Implementation/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Implementation) |
+| DFS/BFS | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/DFS%2CBFS/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/DFS%2CBFS) |
+| 정렬 | [이론](https://github.com/alsrjs951/python-for-coding-test/blob/main/PART-02/Sorting/README.md) | [코드](https://github.com/alsrjs951/python-for-coding-test/tree/main/PART-02/Sorting) |
 | 이진 탐색 | X | X |
 | 다이나믹 프로그래밍 | X | X |
 | 최단 경로 | X | X |
